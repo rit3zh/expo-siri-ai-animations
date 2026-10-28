@@ -2,7 +2,10 @@
 
 **Siri-inspired** Dynamic Island animation, with Metal shaders.
 
-<!-- TODO: drop the demo video link here -->
+
+https://github.com/user-attachments/assets/82e4110e-832d-41e3-9143-730f7bcec6cb
+
+
 
 ---
 
